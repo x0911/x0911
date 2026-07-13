@@ -40,9 +40,8 @@ Outside of code, I'm chasing goals two ways: literally, playing football with fr
 | 🎨 [**Real World Textures**](https://reawote.com/) | A big library of PBR materials and 3D assets — thousands of designers use it to find the textures they actually need instead of settling |
 | 📖 [**Surah**](https://web.surahapp.com/en) | Quran reading, tafsir, and audio, web + desktop — used by roughly 1.5–2M people |
 | 🧒 [**Edmag**](https://edmag.vercel.app/) | Free tool helping kids with disabilities join mainstream schools — now running in 11 government centers in Egypt |
-| 🌱 [**Carbon Overseer**](https://carbonoverseer.cz/) | Dashboards for tracking soil health and carbon data — makes climate data less boring to look at |
-| 🎾 [**Tennis Fantasy Tour**](https://tennisfantasytour.com/) | Fantasy sports built on real player stats and live rankings |
-| 🏸 [**Officiate**](https://officiate.app/) | Booking and scheduling platform for UK netball officiating |
+
+...and a lot more.
 
 Looking for the older stuff — the 5 years I spent as Tech Lead at PixelField? That work mostly lives under [**@hamdi-pixel**](https://github.com/hamdi-pixel/) instead of here. Didn't want to erase it, so it gets its own home.
 
