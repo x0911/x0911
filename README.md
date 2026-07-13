@@ -52,16 +52,22 @@ Looking for the older stuff — the 5 years I spent as Tech Lead at PixelField? 
 
 Combined stats from both accounts — `x0911` and 5 years of work over on `hamdi-pixel` — because splitting them across two cards never told the full story anyway.
 
-<p align="center">
+<p align="left">
   <img height="165em" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=x0911,hamdi-pixel&show_icons=true&theme=default&hide_border=true&count_private=true&custom_title=GitHub%20Stats" />
   <img height="165em" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=x0911,hamdi-pixel&layout=compact&hide_border=true&theme=default" />
 </p>
 
-<p align="center">
+### 🔥 Contribution Streak
+
+<p>x0911</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0911&hide_border=true&theme=default" />
 </p>
 
-<p align="center">
+<p>hamdi-pixel</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdi-pixel&hide_border=true&theme=default" />
 </p>
 
