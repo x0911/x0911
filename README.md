@@ -61,6 +61,10 @@ Combined stats from both accounts — `x0911` and 5 years of work over on `hamdi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0911&hide_border=true&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdi-pixel&hide_border=true&theme=default" />
+</p>
+
 <sub>Streak count above is tracked on `x0911` only — the combined-account fork doesn't support streaks yet, so daily activity across both accounts isn't merged here.</sub>
 
 ---
