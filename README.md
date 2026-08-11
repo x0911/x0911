@@ -59,19 +59,19 @@ Combined stats from both accounts — `x0911` and 5 years of work over on `hamdi
 ### 🔥 Contribution Streak
 
 
-`x0911`
+[`x0911`](https://github.com/x0911)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0911&hide_border=true&theme=default&hide_current_streak=true" />
 </p>
 
-`hamdi-pixel`
+[`hamdi-pixel`](https://github.com/hamdi-pixel)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdi-pixel&hide_border=true&theme=default&hide_current_streak=true" />
 </p>
 
-`hamdi-standard-ai`
+[`hamdi-standard-ai`](https://github.com/hamdi-standard-ai)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdi-standard-ai&hide_border=true&theme=default&hide_current_streak=true" />
